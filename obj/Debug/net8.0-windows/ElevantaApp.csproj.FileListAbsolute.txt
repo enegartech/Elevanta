@@ -1,0 +1,17 @@
+D:\MyProgramming\ElevantaApp\bin\Debug\net8.0-windows\ElevantaApp.exe
+D:\MyProgramming\ElevantaApp\bin\Debug\net8.0-windows\ElevantaApp.deps.json
+D:\MyProgramming\ElevantaApp\bin\Debug\net8.0-windows\ElevantaApp.runtimeconfig.json
+D:\MyProgramming\ElevantaApp\bin\Debug\net8.0-windows\ElevantaApp.dll
+D:\MyProgramming\ElevantaApp\bin\Debug\net8.0-windows\ElevantaApp.pdb
+D:\MyProgramming\ElevantaApp\obj\Debug\net8.0-windows\ElevantaApp.csproj.GenerateResource.cache
+D:\MyProgramming\ElevantaApp\obj\Debug\net8.0-windows\ElevantaApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProgramming\ElevantaApp\obj\Debug\net8.0-windows\ElevantaApp.AssemblyInfoInputs.cache
+D:\MyProgramming\ElevantaApp\obj\Debug\net8.0-windows\ElevantaApp.AssemblyInfo.cs
+D:\MyProgramming\ElevantaApp\obj\Debug\net8.0-windows\ElevantaApp.csproj.CoreCompileInputs.cache
+D:\MyProgramming\ElevantaApp\obj\Debug\net8.0-windows\ElevantaApp.dll
+D:\MyProgramming\ElevantaApp\obj\Debug\net8.0-windows\refint\ElevantaApp.dll
+D:\MyProgramming\ElevantaApp\obj\Debug\net8.0-windows\ElevantaApp.pdb
+D:\MyProgramming\ElevantaApp\obj\Debug\net8.0-windows\ElevantaApp.genruntimeconfig.cache
+D:\MyProgramming\ElevantaApp\obj\Debug\net8.0-windows\ref\ElevantaApp.dll
+D:\MyProgramming\ElevantaApp\obj\Debug\net8.0-windows\ElevantaApp.AddUserForm.resources
+D:\MyProgramming\ElevantaApp\obj\Debug\net8.0-windows\ElevantaApp.Properties.Resources.resources
