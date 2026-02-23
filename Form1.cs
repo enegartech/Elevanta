@@ -65,18 +65,18 @@ namespace ElevantaApp
 
         private void btnSave_Click(object sender, EventArgs e)
         {
-            // 1️⃣ Get values from textboxes
+            // Get values from textboxes
             string name = txtName.Text.Trim();
             string email = txtEmail.Text.Trim();
 
-            // 2️⃣ Validate email format
+            // Validate email format
             if (string.IsNullOrWhiteSpace(email) || !email.Contains("@") || !email.Contains("."))
             {
                 MessageBox.Show("Invalid email format.");
                 return;
             }
 
-            // 3️⃣ Detect Edit or Add mode
+            // Detect Edit or Add mode
             if (userListBox.SelectedItem != null)
             {
                 // Edit mode
@@ -118,12 +118,12 @@ namespace ElevantaApp
                 MessageBox.Show("User added successfully.");
             }
 
-            // 4️⃣ Clear textboxes and deselect ListBox
+            // Clear textboxes and deselect ListBox
             txtName.Clear();
             txtEmail.Clear();
             userListBox.ClearSelected();
 
-            // 5️⃣ Save to file
+            // Save to file
             SaveToFile();
 
         }
@@ -160,3 +160,4 @@ namespace ElevantaApp
         }
     }
 }
+
